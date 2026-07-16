@@ -1,0 +1,242 @@
+{
+  "basics": {
+    "name": "Abhishek Dabas",
+    "label": "Software Development InternMay 2025 – July 2025 at Indian Army",
+    "image": "my-avatar.png",
+    "email": "Not specified",
+    "phone": "8708250109",
+    "birthday": "Not specified",
+    "location": "Git, Docker",
+    "about": [
+      "Experienced professional with expertise in multiple domains. Passionate about delivering quality work and continuous learning."
+    ]
+  },
+  "contactInfo": [
+    {
+      "icon": "mail-outline",
+      "title": "Email",
+      "link": "mailto:Not specified",
+      "value": "Not specified"
+    },
+    {
+      "icon": "phone-portrait-outline",
+      "title": "Phone",
+      "link": "tel:8708250109",
+      "value": "8708250109"
+    },
+    {
+      "icon": "calendar-outline",
+      "title": "Birthday",
+      "value": "Not specified"
+    },
+    {
+      "icon": "location-outline",
+      "title": "Location",
+      "value": "Git, Docker"
+    }
+  ],
+  "socials": [
+    {
+      "icon": "logo-linkedin",
+      "url": "#"
+    },
+    {
+      "icon": "logo-github",
+      "url": "https://github.com/abhishek972986"
+    },
+    {
+      "icon": "logo-twitter",
+      "url": "#"
+    },
+    {
+      "icon": "logo-instagram",
+      "url": "#"
+    }
+  ],
+  "services": [
+    {
+      "icon": "https://placehold.co/40x40/ffd700/1a1a1a?text=S1",
+      "title": "Professional Services",
+      "description": "Delivering high-quality professional services tailored to client needs."
+    },
+    {
+      "icon": "https://placehold.co/40x40/ffd700/1a1a1a?text=S2",
+      "title": "Consulting",
+      "description": "Expert consulting and advisory services across multiple domains."
+    },
+    {
+      "icon": "https://placehold.co/40x40/ffd700/1a1a1a?text=S3",
+      "title": "Project Management",
+      "description": "End-to-end project management ensuring timely and quality delivery."
+    },
+    {
+      "icon": "https://placehold.co/40x40/ffd700/1a1a1a?text=S4",
+      "title": "Strategy & Planning",
+      "description": "Strategic planning and execution for business growth and success."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Colleague",
+      "company": "Organization",
+      "quote": "A dedicated and reliable professional.",
+      "avatar": "./images/avatar-2.png"
+    },
+    {
+      "name": "Client",
+      "company": "Company",
+      "quote": "Delivered excellent results consistently.",
+      "avatar": "./images/avatar-1.png"
+    }
+  ],
+  "clients": [
+    {
+      "name": "Client Alpha",
+      "logo": "./images/logo-1-color.png"
+    },
+    {
+      "name": "Client Beta",
+      "logo": "./images/logo-2-color.png"
+    }
+  ],
+  "education": [
+    {
+      "title": "Army Institute of Technology BE - Computer Science (CGPA: 9.5)",
+      "dates": "2024 – Present",
+      "description": "Rahul Public SchoolSenior Secondary (90.0%)2023"
+    },
+    {
+      "title": "Rahul Public SchoolSenior Secondary (90.0%)",
+      "dates": "2023",
+      "description": "G.D. Goenka Public SchoolSecondary (95.9%)2021"
+    },
+    {
+      "title": "G.D. Goenka Public SchoolSecondary (95.9%)",
+      "dates": "2021",
+      "description": ""
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Development InternMay 2025 – July 2025 at Indian Army",
+      "dates": "2025 – July 2025",
+      "description": "Built a secure full-stack Porter Management System for 500+ personnel, automating attendance, payroll, and leave"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "percentage": 90
+    },
+    {
+      "title": "JavaScript",
+      "percentage": 87
+    },
+    {
+      "title": "TypeScript",
+      "percentage": 84
+    },
+    {
+      "title": "HTML",
+      "percentage": 81
+    },
+    {
+      "title": "CSS",
+      "percentage": 78
+    },
+    {
+      "title": "React.js",
+      "percentage": 75
+    },
+    {
+      "title": "Node.js",
+      "percentage": 72
+    },
+    {
+      "title": "Express.js",
+      "percentage": 69
+    },
+    {
+      "title": "MongoDB",
+      "percentage": 66
+    },
+    {
+      "title": "MySQL",
+      "percentage": 63
+    },
+    {
+      "title": "Git",
+      "percentage": 60
+    },
+    {
+      "title": "Docker",
+      "percentage": 60
+    },
+    {
+      "title": "Kubernetes",
+      "percentage": 60
+    },
+    {
+      "title": "AWS EKS",
+      "percentage": 60
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Professional Achievement",
+      "description": "Achieved significant milestones throughout career."
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "Modern Portfolio Website",
+      "image": "./images/project-1.jpg",
+      "description": "Developed a fully responsive portfolio using React, Tailwind CSS, Framer Motion, ShadCN UI, and Material UI",
+      "url": "#"
+    },
+    {
+      "name": "with modern animations and reusable components.",
+      "image": "./images/project-2.jpg",
+      "description": "Optimized performance,  SEO, accessibility,  and cross-browser compatibility to showcase projects and skills in a",
+      "url": "#"
+    },
+    {
+      "name": "recruiter-friendly interface.",
+      "image": "./images/project-3.jpg",
+      "description": "React, JavaScript, Tailwind CSS, Framer Motion, ShadCN UI, Material UI, Vite.",
+      "url": "#"
+    },
+    {
+      "name": "AI Resume-to-Portfolio Converter",
+      "image": "./images/project-4.jpg",
+      "description": "Built an AI-powered platform that converts PDF resumes into responsive portfolio websites using customizable",
+      "url": "#"
+    },
+    {
+      "name": "templates and automated content generation.",
+      "image": "./images/project-5.jpg",
+      "description": "Implemented JWT authentication, PDF parsing, REST APIs, MongoDB, and Gemini AI to streamline portfolio",
+      "url": "#"
+    },
+    {
+      "name": "creation for job seekers.",
+      "image": "./images/project-6.jpg",
+      "description": "React, Node.js, Express.js, MongoDB, JWT, Gemini AI, PDF Parser, Tailwind CSS.",
+      "url": "#"
+    }
+  ],
+  "blogPosts": [
+    {
+      "title": "Professional Insights and Industry Trends",
+      "date": "2025-01-15",
+      "image": "./images/blog-1.jpg",
+      "url": "#"
+    },
+    {
+      "title": "Tips for Career Growth and Development",
+      "date": "2025-02-20",
+      "image": "./images/blog-2.jpg",
+      "url": "#"
+    }
+  ]
+}

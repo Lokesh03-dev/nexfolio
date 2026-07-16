@@ -1,0 +1,23 @@
+{
+  "brandName": "Nexfolio",
+  "title": "Transform your resume into a stunning portfolio website in minutes—powered by AI.",
+  "company": {
+    "name": "Abhishek Dabas",
+    "url": "https://new-design-portfolio-tau.vercel.app/",
+    "socialLink": {
+      "linkedin": "https://linkedin.com/in/dabas-abhishek",
+      "instagram": "https://instagram.com/ok.abhishek",
+      "github": "https://github.com/abhishek972986",
+      "website": "https://new-design-portfolio-tau.vercel.app/",
+      "email": "mailto:abhishekdabas2005@gmail.com",
+      "phone": "tel:+918708250109",
+      "support": "mailto:abhishekdabas2005@gmail.com"
+    }
+  },
+  "logo": {
+    "main": "",
+    "logoIcon": "",
+    "logoFab": "",
+    "logoWatermark": ""
+  }
+}
